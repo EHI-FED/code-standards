@@ -1,4 +1,4 @@
 code-standards
 ==============
 
-This is where the Front-End Developers specify the team's code standards.
+These are the code standards for the Front-End Developer team.
