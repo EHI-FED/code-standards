@@ -29,6 +29,10 @@ http://css-tricks.com/css-style-guides/
 
 http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 
+https://developers.google.com/speed/docs/best-practices/rendering
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS?redirectlocale=en-US&redirectslug=CSS%2FWriting_Efficient_CSS
+
 https://github.com/necolas/idiomatic-css
 
 http://coding.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/
